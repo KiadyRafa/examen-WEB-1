@@ -41,7 +41,6 @@ section {
     top: 0;
     left: 0;
     width: 100%;
-    padding: 2rem 9%;
     background: var(--bg-color);
     display: flex;
     justify-content: space-between;
@@ -54,6 +53,7 @@ section {
     color: var(--text-color);
     font-weight: 600;
     cursor: default;
+    margin-left: 5%;
 }
 
 nav ul{
